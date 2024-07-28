@@ -41,7 +41,7 @@ Implementation:
 
 
 
-#### 4. Interface Segregation Principle (ISP)4. Interface Segregation Principle (ISP)
+#### 4. Interface Segregation Principle (ISP)
 **Principle:** Clients should not be forced to depend on interfaces they don't use.
 
 **Benefits:** Reduces coupling and improves modularity.
