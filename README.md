@@ -14,6 +14,7 @@ Implementation:
 - Organize modules by functionality.
 
 
+
 #### 2. Open-Closed Principle (OCP)
 **Principle:** Software entities (classes, modules) should be open for extension but closed for modification.
 
@@ -24,6 +25,7 @@ Implementation:
 - Utilize inheritance and polymorphism effectively.
 - Favor composition over inheritance.
 - Employ interfaces to define contracts for behavior.
+
 
 
 #### 3. Liskov Substitution Principle (LSP)
@@ -38,6 +40,7 @@ Implementation:
 - Prioritize contracts (interfaces) over concrete implementations.
 
 
+
 #### 4. Interface Segregation Principle (ISP)4. Interface Segregation Principle (ISP)
 **Principle:** Clients should not be forced to depend on interfaces they don't use.
 
@@ -48,6 +51,7 @@ Implementation:
 - Break down large interfaces into smaller, specific ones.
 - Define separate interfaces for distinct functionalities.
 - Use abstract classes or mixins for shared functionality.
+
 
 
 #### 5. Dependency Inversion Principle (DIP)
